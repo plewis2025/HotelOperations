@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e034d0b5-7fe3-46f0-8b02-74f5082f6dc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hotel/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hotel/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hotel/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reservation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Room.java" beforeDir="false" />
-    </list>
+    <list default="true" id="e034d0b5-7fe3-46f0-8b02-74f5082f6dc8" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Employee.java&#10;#&#9;src/Main.java&#10;#&#9;src/Room.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +52,37 @@
       <option name="presentableId" value="Default" />
       <updated>1761087823254</updated>
     </task>
+    <task id="LOCAL-00001" summary="Merged local and remote histories">
+      <option name="closed" value="true" />
+      <created>1761089016894</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761089016895</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merged local and remote histories">
+      <option name="closed" value="true" />
+      <created>1761089023680</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761089023680</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Employee.java&#10;#&#9;src/Main.java&#10;#&#9;src/Room.java">
+      <option name="closed" value="true" />
+      <created>1761089072725</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761089072725</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="made new files and packages updated all" />
+    <MESSAGE value="Merged local and remote histories" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Employee.java&#10;#&#9;src/Main.java&#10;#&#9;src/Room.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Employee.java&#10;#&#9;src/Main.java&#10;#&#9;src/Room.java" />
   </component>
 </project>
